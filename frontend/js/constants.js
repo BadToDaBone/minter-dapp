@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Bad Mercy NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Bad Mercy Pharomorph warriors are a set of 5100 programmatically generated and unique NFTs that will be playable avatars in the Bad Mercy video game.';
+const welcome_p = 'Bad Mercy Pharomorph warriors are a set of 5100 unique NFTs that will be playable avatars in the Bad Mercy video game.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
