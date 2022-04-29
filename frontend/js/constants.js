@@ -1,7 +1,7 @@
 const contractAddress = "0x8c04c6048cC160c8A4a45D75c41Cb825A676AB72"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Bad Mercy Mercyverse!!";
+const welcome_h1 = "Welcome to the Bad Mercy Mercyverse!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Get Your Bad Mercy Pharomorph Warriors Now! .';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
